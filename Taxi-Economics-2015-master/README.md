@@ -1,2 +1,2 @@
-# Taxi-Economics-2015
-This project is for the Spring 2015 Big Data 2015.
+# Taxi-Economics-2016
+This project is for Bootcamp.
